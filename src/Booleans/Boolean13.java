@@ -1,7 +1,5 @@
 package Booleans;
-
 import java.util.Scanner;
-
 public class Boolean13 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -1,7 +1,5 @@
 package Begins;
-
 import java.util.Scanner;
-
 public class begin29 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -9,6 +7,5 @@ public class begin29 {
         int deg = sc.nextInt();
         double radians = Math.toRadians(deg);
         System.out.println("Radians of degrees is : "+radians);
-
     }
 }
