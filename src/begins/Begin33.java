@@ -1,8 +1,8 @@
-package Begins;
+package begins;
 
 import java.util.Scanner;
 
-public class begin33 {
+public class Begin33 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("How many kg sweets are talking about? ");

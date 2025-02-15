@@ -2,7 +2,7 @@ package conditionals;
 
 import java.util.Scanner;
 
-public class If9 {
+public class If09 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number :");

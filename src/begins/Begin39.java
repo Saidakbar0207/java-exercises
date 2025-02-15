@@ -1,8 +1,8 @@
-package Begins;
+package begins;
 
 import java.util.Scanner;
 
-public class begin39 {
+public class Begin39 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter A :");
