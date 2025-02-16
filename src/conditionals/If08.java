@@ -10,11 +10,11 @@ public class If08 {
         System.out.print("Enter b number :");
         int b= sc.nextInt();
         if (a>b){
-            System.out.println("Larger number is : "+a);
-            System.out.println("Smaller number is : "+b);
+            System.out.println("larger number is : "+a);
+            System.out.println("smaller number is : "+b);
         } else {
-            System.out.println("Larger number is : "+b);
-            System.out.println("Smaller number is : "+a);
+            System.out.println("larger number is : "+b);
+            System.out.println("smaller number is : "+a);
         }
     }
 }

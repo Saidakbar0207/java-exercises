@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class Integer28 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter K:");
+        System.out.print("Enter k:");
         int k = sc.nextInt();
-        System.out.print("Enter N:");
+        System.out.print("Enter n:");
         int n = sc.nextInt();
         int week=(n+(k-1))%7;
         if (week==0){

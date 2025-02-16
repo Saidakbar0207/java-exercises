@@ -11,7 +11,7 @@ public class Begin11 {
         int b = sc.nextInt();
         double c=Math.sqrt(Math.pow(a,2)+Math.pow(b,2));
         double perimetr=a+b+c;
-        System.out.println("Perimetr is : "+perimetr);
+        System.out.println("perimetr is : "+perimetr);
         System.out.println("c = "+c);
     }
 }

@@ -8,6 +8,6 @@ public class Begin30 {
         System.out.print("Enter radian (0<a<2_pi):");
         double radian = sc.nextDouble();
         double degrees = Math.toDegrees(radian);
-        System.out.println("The degrees is " + degrees);
+        System.out.println("the degrees is " + degrees);
     }
 }

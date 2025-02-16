@@ -10,9 +10,9 @@ public class If06 {
         System.out.print("Enter b number :");
         int b= sc.nextInt();
         if (a>b){
-            System.out.println("Larger number is : "+a);
+            System.out.println("larger number is : "+a);
         } else {
-            System.out.println("Larger number is : "+b);
+            System.out.println("larger number is : "+b);
         }
     }
 }

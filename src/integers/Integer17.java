@@ -9,7 +9,7 @@ public class Integer17 {
         int n = sc.nextInt();
         if(n>999){
             int  m=(n%1000)/100;
-            System.out.println("a hundeds->"+m);
+            System.out.println("a hundred->"+m);
         } else {
             System.out.println("Error");
         }

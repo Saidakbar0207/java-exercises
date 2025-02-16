@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Integer16 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter a three-digit :");
+        System.out.print("Enter a threeDigit :");
         int d = sc.nextInt();
         if(d>99 && d<1000){
             int a=d/100;

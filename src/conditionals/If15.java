@@ -12,11 +12,11 @@ public class If15 {
         System.out.print("Enter a number: ");
         int c= sc.nextInt();
         if(a>c && b>c){
-            System.out.println("Sumo of two largest value = "+(a+b));
+            System.out.println("sum of two largest value = "+(a+b));
         } else if(a>b && c>b){
-            System.out.println("Sumo of two largest value = "+(a+c));
+            System.out.println("sum of two largest value = "+(a+c));
         } else if(b>a && c>a){
-            System.out.println("Sumo of two largest value = "+(b+c));
+            System.out.println("sum of two largest value = "+(b+c));
         }
     }
 }

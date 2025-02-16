@@ -8,6 +8,6 @@ public class Begin29 {
         System.out.print("Enter degrees (0<a<360):");
         int deg = sc.nextInt();
         double radians = Math.toRadians(deg);
-        System.out.println("Radians of degrees is : "+radians);
+        System.out.println("radians of degrees is : "+radians);
     }
 }

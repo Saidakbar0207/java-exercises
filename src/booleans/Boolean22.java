@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Boolean22 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter A :");
+        System.out.print("Enter a :");
         int n = sc.nextInt();
         int a=n/100;
         int b=(n%100)/10;

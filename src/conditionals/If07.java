@@ -10,9 +10,9 @@ public class If07 {
         System.out.print("Enter b number :");
         int b= sc.nextInt();
         if (a>b){
-            System.out.println("ordinal number of a small nuber : "+1);
+            System.out.println("ordinal number of a small number : "+1);
         } else {
-            System.out.println("ordinal number of a small nuber : "+2);
+            System.out.println("ordinal number of a small number : "+2);
         }
     }
 

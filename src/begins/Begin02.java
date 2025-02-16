@@ -8,6 +8,6 @@ public class Begin02 {
           System.out.print("Enter a:");
       int a = sc.nextInt();
       int s=a*a;
-      System.out.println("S = "+s);
+      System.out.println("s = "+s);
     }
 }

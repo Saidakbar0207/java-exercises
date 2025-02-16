@@ -11,8 +11,8 @@ public class Begin03 {
       int b = sc.nextInt();
       int S=a*b;
       int perimetr=2*(a+b);
-      System.out.println("Perimetr = "+perimetr);
-      System.out.println("S = "+S);
+      System.out.println("perimetr = "+perimetr);
+      System.out.println("s = "+S);
 
     }
 }

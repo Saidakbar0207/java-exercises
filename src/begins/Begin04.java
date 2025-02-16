@@ -9,7 +9,7 @@ public class Begin04 {
       double d = sc.nextDouble();
       double pi=Math.PI;
       double length=pi*d;
-      System.out.println("Length = "+length);
+      System.out.println("length = "+length);
     }
 }
 

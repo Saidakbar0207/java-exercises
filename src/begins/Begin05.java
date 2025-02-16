@@ -9,7 +9,7 @@ public class Begin05 {
         int a = sc.nextInt();
         int  v=a*a*a;
         int s=6*a*a;
-        System.out.println("V = "+v);
-        System.out.println("S = "+s);
+        System.out.println("v = "+v);
+        System.out.println("s = "+s);
     }
 }
