@@ -7,9 +7,9 @@ public class Begin05 {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a:");
         int a = sc.nextInt();
-        int  V=a*a*a;
-        int S=6*a*a;
-        System.out.println("V = "+V);
-        System.out.println("S = "+S);
+        int  v=a*a*a;
+        int s=6*a*a;
+        System.out.println("V = "+v);
+        System.out.println("S = "+s);
     }
 }

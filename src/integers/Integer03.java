@@ -7,7 +7,7 @@ public class Integer03 {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter A bytes :");
         int b = sc.nextInt();
-        int K=b/1024;
-        System.out.println(b+" bytes = "+K+" K");
+        int k=b/1024;
+        System.out.println(b+" bytes = "+k+" K");
     }
 }

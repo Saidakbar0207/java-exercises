@@ -10,8 +10,8 @@ public class Begin11 {
         System.out.print("Enter b :");
         int b = sc.nextInt();
         double c=Math.sqrt(Math.pow(a,2)+Math.pow(b,2));
-        double Perimetr=a+b+c;
-        System.out.println("Perimetr is : "+Perimetr);
+        double perimetr=a+b+c;
+        System.out.println("Perimetr is : "+perimetr);
         System.out.println("c = "+c);
     }
 }

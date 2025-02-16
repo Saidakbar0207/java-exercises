@@ -8,8 +8,8 @@ public class Begin04 {
         System.out.print("Enter d:");
       double d = sc.nextDouble();
       double pi=Math.PI;
-      double Length=pi*d;
-      System.out.println("Length = "+Length);
+      double length=pi*d;
+      System.out.println("Length = "+length);
     }
 }
 

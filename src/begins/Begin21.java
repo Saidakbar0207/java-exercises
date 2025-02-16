@@ -25,7 +25,7 @@ public class Begin21 {
         System.out.println("c = "+c);
         double perimetr =a+b+c;
         System.out.println("perimetr = "+perimetr);
-        double S=Math.sqrt(perimetr*(perimetr-a)*(perimetr-b)*(perimetr-c));
-        System.out.println("S = "+S);
+        double s=Math.sqrt(perimetr*(perimetr-a)*(perimetr-b)*(perimetr-c));
+        System.out.println("S = "+s);
     }
 }

@@ -7,7 +7,7 @@ public class Begin01 {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a:");
         int a = sc.nextInt();
-        int Perimetr=4*a;
-        System.out.println("Perimetr = "+Perimetr);
+        int perimetr=4*a;
+        System.out.println("perimetr = "+perimetr);
     }
 }

@@ -17,10 +17,10 @@ public class Begin40 {
         int c1 = sc.nextInt();
         System.out.print("Enter C_2 :");
         int c2 = sc.nextInt();
-        int D=a1*b2-a2*b1;
-        int x=(c1*b2-c2*b1)/D;
-        int y=(a1*c2-a2*c1)/D;
-        System.out.println("D = "+D);
+        int d=a1*b2-a2*b1;
+        int x=(c1*b2-c2*b1)/d;
+        int y=(a1*c2-a2*c1)/d;
+        System.out.println("D = "+d);
         System.out.println("x = "+x);
         System.out.println("y = "+y);
     }

@@ -9,8 +9,8 @@ public class Begin09 {
       int a = sc.nextInt();
       System.out.print("Enter b:");
       int b = sc.nextInt();
-      double geometric_mean=Math.sqrt(a*b);
-      System.out.println("geometric mean = "+geometric_mean);
+      double geometricMean=Math.sqrt(a*b);
+      System.out.println("geometric mean = "+geometricMean);
 
     }
 }

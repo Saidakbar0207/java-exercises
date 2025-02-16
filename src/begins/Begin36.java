@@ -11,7 +11,7 @@ public class Begin36 {
         int v2 = sc.nextInt();
         System.out.print("Enter T :");
         int t = sc.nextInt();
-        int total_distance=(v1+v2)*t;
-        System.out.println("Total distance  = "+total_distance);
+        int totalDistance=(v1+v2)*t;
+        System.out.println("Total distance  = "+totalDistance);
     }
 }

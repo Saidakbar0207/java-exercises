@@ -11,9 +11,9 @@ public class Begin06 {
         int b = sc.nextInt();
         System.out.print("Enter c:");
         int c = sc.nextInt();
-        int V=a*b*c;
-        System.out.println("V="+V);
-        int S=2*(a*b+a*c+b*c);
-        System.out.println("S="+S);
+        int v=a*b*c;
+        System.out.println("V="+v);
+        int s=2*(a*b+a*c+b*c);
+        System.out.println("S="+s);
     }
 }

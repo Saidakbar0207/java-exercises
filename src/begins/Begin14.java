@@ -7,9 +7,9 @@ public class Begin14 {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter R :");
         double r = sc.nextDouble();
-        double L=2*Math.PI*r;
-        double S=Math.PI*r*r;
-        System.out.println("L = "+L);
-        System.out.println("S = "+S);
+        double l=2*Math.PI*r;
+        double s=Math.PI*r*r;
+        System.out.println("L = "+l);
+        System.out.println("S = "+s);
     }
 }

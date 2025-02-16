@@ -13,8 +13,8 @@ public class Begin35 {
         int t1 = sc.nextInt();
         System.out.print("Enter T_2 :");
         int t2 = sc.nextInt();
-        int S=v*t1+u*t2;
-        System.out.println("Distance = "+S);
+        int s=v*t1+u*t2;
+        System.out.println("Distance = "+s);
     }
 
 }

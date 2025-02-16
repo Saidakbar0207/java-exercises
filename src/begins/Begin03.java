@@ -10,8 +10,8 @@ public class Begin03 {
       System.out.print("Enter b:");
       int b = sc.nextInt();
       int S=a*b;
-      int Perimetr=2*(a+b);
-      System.out.println("Perimetr = "+Perimetr);
+      int perimetr=2*(a+b);
+      System.out.println("Perimetr = "+perimetr);
       System.out.println("S = "+S);
 
     }

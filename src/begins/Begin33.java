@@ -10,10 +10,10 @@ public class Begin33 {
         System.out.print("How many cost sweets are talking about? ");
         int A=sc.nextInt();
         System.out.print("How many kg sweets do you want to buy ?  ");
-        int Y=sc.nextInt();
-        double y=A/x;
-        double B=Y*y;
-        System.out.println("1 kg  cost  of sweet ="+y);
-        System.out.println(Y+" kg  cost of sweet ="+B);
+        int y=sc.nextInt();
+        double c=A/x;
+        double b=y*c;
+        System.out.println("1 kg  cost  of sweet ="+c);
+        System.out.println(Y+" kg  cost of sweet ="+b);
     }
 }

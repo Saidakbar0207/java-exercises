@@ -7,7 +7,7 @@ public class Begin02 {
         Scanner sc = new Scanner(System.in);
           System.out.print("Enter a:");
       int a = sc.nextInt();
-      int S=a*a;
-      System.out.println("S = "+S);
+      int s=a*a;
+      System.out.println("S = "+s);
     }
 }
