@@ -2,7 +2,7 @@ package procs;
 
 import java.util.Scanner;
 
-public class Proc1 {
+public class Proc01 {
     static void PowerA3(double A){
        return ;
     }
