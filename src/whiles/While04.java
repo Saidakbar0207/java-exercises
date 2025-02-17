@@ -2,7 +2,7 @@ package whiles;
 
 import java.util.Scanner;
 
-public class while04 {
+public class While04 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter n :");
