@@ -20,7 +20,7 @@ public class Matrix005 {
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 matrix[i][j]=sequence[i];
-           sequence[i]+=d;
+                sequence[i]+=d;
             }
         }
         for (int i = 0; i < m; i++) {
