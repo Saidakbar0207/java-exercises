@@ -7,10 +7,5 @@ public class String22 {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a string :");
         String s = sc.nextLine();
-        int sum=0;
-        for (int i = 0; i < s.length(); i++) {
-            sum +=s.charAt(i)-'0';
-        }
-        System.out.println("Sum of digits is "+sum);
     }
 }

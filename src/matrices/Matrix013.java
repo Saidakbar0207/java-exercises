@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Matrix013 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+      /*  Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of rows and columns :");
         int n = sc.nextInt();
         int[][] arr = new int[n][n];
@@ -29,7 +29,10 @@ public class Matrix013 {
             for (int j =i+1; j < n; j++) {
                 System.out.print(arr[j][n-i-1] + "  ");
             }
-        }
-    }
+        }*/
 
-}
+
+
+
+         }
+    }

@@ -1,0 +1,17 @@
+package procs;
+
+import java.util.Scanner;
+
+public class Proc25 {
+    public static boolean IsSquare(int k){
+        for(int i=1;i<=k/2;i++){
+            if(k==i*i) return true;
+        } return false;
+    }
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter the number :");
+        int k = sc.nextInt();
+        System.out.println(IsSquare(k));
+    }
+}
